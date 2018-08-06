@@ -35,6 +35,12 @@
   
 输入：
 
-http://yourid/
+http://yourip/
 
 即可访问
+
+管理员账号：vagrant@bmo-web.vm 
+密码："vagrant01!" (without quotes)
+
+## 补充
+具体容器配置参数可在原始项目中的readme中找到说明
